@@ -1,0 +1,28 @@
+.login-align {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 200px;
+}
+.name {
+  font-size: 30px;
+  font-weight: bold;
+}
+.box-size {
+  height: 30px;
+  width: 200px;
+  margin-bottom: 20px;
+  font-size: 17px;
+}
+.login-button {
+  background-color: blue;
+  color: #ffffff;
+  height: 50px;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+}
+.error-msg {
+  color: red;
+  font-size: 15px;
+}

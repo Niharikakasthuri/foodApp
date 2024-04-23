@@ -1,0 +1,14 @@
+.active-tab-item {
+  color: red;
+  text-decoration: underline red;
+  background-color: transparent;
+  border: none;
+}
+.button-align {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.list{
+  list-style-type: none;
+}
